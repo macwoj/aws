@@ -47,5 +47,3 @@
 | **EKS** | Managed Kubernetes | Fargate or EC2 |
 | **Fargate** | Serverless compute for containers | ECS, EKS |
 | **ECR** | Docker container registry | ECS, EKS, Fargate |
-
-Let me know if you want a decision guide on when to use which one!
